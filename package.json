@@ -1,5 +1,6 @@
 {
-  "name": "test",
+  "name": "todolistv2",
+  "homepage": "https://yudong-0222.github.io/todolistv2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
